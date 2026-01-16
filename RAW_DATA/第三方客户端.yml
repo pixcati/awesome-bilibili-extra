@@ -371,3 +371,15 @@
   icon:
     - kotlin
     - android
+    
+- name: bilibili-tui
+  link: MareDevi/bilibili-tui
+  from: github
+  description: 一个基于终端用户界面（TUI）的 Bilibili 客户端，使用 Rust 构建，提供轻量级且高效的 Bilibili 浏览体验。
+  icon:
+    - rust
+    - terminal
+    - shell
+    - mac
+    - Windows
+    - linux
