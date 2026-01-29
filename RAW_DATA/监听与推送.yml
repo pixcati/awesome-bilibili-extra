@@ -229,3 +229,18 @@
   icon:
     - py
     - cli
+- name: B站长视频监控系统
+  link: CHOSENX-GPU/bili-recommend
+  from: github
+  description: B站长视频监控系统 - 自动监控B站长视频，通过Telegram推送高质量内容
+  icon:
+    - py
+    - cli
+    - docker
+- name: BiliChat Request
+  link: Well2333/bilichat-request
+  from: github
+  description: 适用于 bilichat 的 API 服务
+  icon:
+    - py
+    - docker

@@ -371,15 +371,39 @@
   icon:
     - kotlin
     - android
-    
 - name: bilibili-tui
   link: MareDevi/bilibili-tui
   from: github
   description: 一个基于终端用户界面（TUI）的 Bilibili 客户端，使用 Rust 构建，提供轻量级且高效的 Bilibili 浏览体验。
   icon:
     - rust
-    - terminal
-    - shell
+    - cli
     - mac
-    - Windows
+    - exe
     - linux
+- name: BiliTV
+  link: sarogar559/BiliTV
+  from: github
+  description: 📺 Stream on Android TV with BiliTV, a third-party client built with Flutter, featuring advanced video playback and codec support for a seamless viewing experience.
+  icon:
+    - dart
+- name: BiliCard - Desktop Bilibili Widget
+  link: WEP-56/BIliCard
+  from: github
+  description: 使用electron制作的便签式哔哩哔Windwos客户端，以更现代化更简洁的形式呈现bilibili所有内容。
+  icon:
+    - ts
+    - exe
+- name: BiliTV 📺
+  link: Hyper-Beast/BiliTV
+  from: github
+  description: 一款基于Bilipai开发的哔哩哔哩TV版APP
+  icon:
+    - dart
+- name: bili-tui
+  link: VandeeFeng/bili-tui
+  from: github
+  description: A tiny bilibili TUI client without AD and algorithm
+  icon:
+    - rust
+    - cli

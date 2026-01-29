@@ -1,7 +1,7 @@
 /*
  * @Author       : HCLonely
  * @Date         : 2026-01-16 18:29:51
- * @LastEditTime : 2026-01-16 20:02:25
+ * @LastEditTime : 2026-01-29 11:29:01
  * @LastEditors  : HCLonely
  * @FilePath     : /awesome-bilibili-extra/src/getItems.js
  * @Description  :
@@ -72,11 +72,12 @@ async function getItems() {
           hl_trunc_description: item.hl_trunc_description,
           hl_link: `https://github.com/${cleanName}`
         };
-      });
+      })
+      .filter((item) => !item.hl_name.toLowerCase().includes('bilingual'));
   };
 
   // Main loop to fetch all 100 pages
-  for (let page = 1; page <= 5; page++) {
+  for (let page = 1; page <= 100; page++) {
     console.log(`Fetching page ${page}/100...`);
 
     const html = await makeRequest(page);

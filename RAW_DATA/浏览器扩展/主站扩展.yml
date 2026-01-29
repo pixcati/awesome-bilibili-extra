@@ -214,3 +214,9 @@
   description: 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
   icon:
     - js
+- name: bilibili Ads Remover
+  link: 14Kay/chrome-bili-ads-remove
+  from: github
+  description: 基于接口返回的动态广告移除chrome插件
+  icon:
+    - ts

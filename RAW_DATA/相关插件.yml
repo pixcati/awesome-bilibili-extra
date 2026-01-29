@@ -183,3 +183,29 @@
   description: B 站视频信息预览插件：渲染预览图，不用点开也能知道视频内容。
   icon:
     - ts
+- name: 📺 AstrBot Bilibili Full Featured Plugin
+  link: Arturia169/astrbot_plugin_Bilibili-Full-Featured
+  from: github
+  description: 哔哩哔哩全能插件，提供视频、用户、直播、投稿、评论区查询及 AI 视频总结功能。
+  icon:
+    - py
+- name: BiliBiliTweak
+  link: TouchFriend/BiliBiliTweak
+  from: github
+  description: 哔哩哔哩无广告越狱插件。
+  icon:
+    - C
+    - ios
+- name: 🎬 BilibiliVideo
+  link: BingZi-233/BilibiliVideo
+  from: github
+  description: 一个基于 TabooLib 框架开发的 Minecraft Bilibili 协议插件，用于连接 Bilibili 和 Minecraft 服务器。
+  icon:
+    - kotlin
+- name: Bili QQ Bot
+  link: UnsplashZ/bili-qq-bot
+  from: github
+  description: 基于 NapCat 框架开发的Bilibili链接解析机器人。它能智能识别并解析B站各种类型的链接，并为这些内容生成高清预览卡片。
+  icon:
+    - js
+    - docker

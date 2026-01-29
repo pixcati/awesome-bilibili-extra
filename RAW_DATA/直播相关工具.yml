@@ -41,13 +41,6 @@
   description: 直播用弹幕栏
   icon:
     - ts
-- name: Bilibili-MagicalDanmaku
-  link: iwxyi/Bilibili-MagicalDanmaku
-  from: github
-  description: 哔哩哔哩直播万能机器人，弹幕姬+答谢姬+回复姬+点歌姬+...
-  icon:
-    - c#
-    - exe
 - name: Bilibili_Danmuji
   link: BanqiJane/Bilibili_Danmuji
   from: github
@@ -637,3 +630,28 @@
   icon:
     - py
     - cli
+- name: 哔哩哔哩直播姬（仮）
+  link: Rsplwe/bili-live-hime
+  from: github
+  description: bilibili官方直播姬的轻量化替代工具，实现推流地址获取、直播间管理、实时弹幕与礼物推送、观众统计。支持 Windows / Linux / macOS。
+  icon:
+    - ts
+    - exe
+    - mac
+    - linux
+- name: Bilirec - Bilibili 直播录制工具
+  link: eric2788/bilirec
+  from: github
+  description: 针对树莓派构建的轻量级B站直播录制系统
+  icon:
+    - cli
+    - docker
+- name:  Bilistream
+  link: Detteee/bilistream
+  from: github
+  description: BiliStream 是一个用 Rust 编写的应用程序，旨在自动将 YouTube 或 Twitch 的直播流转播到 Bilibili。使用ffmpeg， yt-dlp和Streamlink实现转播。
+  icon:
+    - rust
+    - exe
+    - mac
+    - linux

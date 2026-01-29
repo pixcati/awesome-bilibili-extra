@@ -467,3 +467,15 @@
   icon:
     - js
     - docker
+- name: bili_UP_data_card
+  link: Little-Data/bili_UP_data_card
+  from: github
+  description: bilibili UP主信息卡片生成，支持使用Actions自动更新
+  icon:
+    - py
+- name: Bili Card - 一行代码返回B站展示SVG卡片
+  link: lsqkk/bili-card
+  from: github
+  description: 一行代码返回B站展示SVG卡片 | 优雅、现代的B站用户卡片生成工具，通过简洁的API接口将B站用户信息转化为精美的SVG卡片。无需复杂的配置，只需一个UID，即可获得美观、可自定义的用户信息展示卡片，完美嵌入个人网站、GitHub Profile或任何需要展示B站身份的场景。
+  icon:
+    - js

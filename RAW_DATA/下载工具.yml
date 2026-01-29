@@ -420,13 +420,6 @@
   icon:
     - rust
     - exe
-- name: BiliResourceDownloader
-  link: LightQuanta/BiliResourceDownloader
-  from: github
-  description: 多功能B站资源下载器
-  icon:
-    - vue
-    - exe
 - name: Bilibili_fetcher
   link: Bbdolt/Bilibili_fetcher
   from: github
@@ -532,3 +525,18 @@
   icon:
     - c#
     - exe
+- name: BILIBILI-DOWNLOADER-GUI
+  link: j4rviscmd/bilibili-downloader-gui
+  from: github
+  description: Lightweight cross-platform Bilibili video downloader built with Tauri + React.
+  icon:
+    - ts
+    - exe
+    - mac
+- name: Bilibili-Captions
+  link: LuShan123888/Bilibili-Captions
+  from: github
+  description: B站字幕下载工具，支持 API 获取和 Whisper ASR 生成
+  icon:
+    - py
+    - cli

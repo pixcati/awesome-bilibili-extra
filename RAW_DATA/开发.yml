@@ -1,8 +1,3 @@
-- name: Bilibili-API-collect
-  link: SocialSisterYi/bilibili-API-collect
-  from: github
-  description: 哔哩哔哩-API收集整理
-  icon: []
 - name: Bilibili-api
   link: Vespa314/bilibili-api
   from: github
